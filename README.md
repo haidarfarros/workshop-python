@@ -9,5 +9,5 @@ Semester: Genap
 
 Tahun Ajaran: 2021-2022
 
-Dosen
+Dosen:
 Dr. Bambang Purnomosidi D. P.
